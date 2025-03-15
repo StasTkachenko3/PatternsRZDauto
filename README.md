@@ -1,0 +1,1 @@
+This project uses JAVA OOP principles, PageObject and PageFactor patterns, classes and objects. As well as the Selenium framework and the maven build. This project is just a small example of skills.
